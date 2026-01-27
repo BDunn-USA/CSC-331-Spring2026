@@ -1,0 +1,7 @@
+# This file contains a list of students (name only, please do *not* include your J#). 
+# You should append your name to the end of this list, not modifying any lines/names that may already exist. 
+# Initially this file consists of three single-line comments, indicated by the hashtag ("#") symbol, followed by four distinct names each occuring on separate lines.
+Zaphod Beeblebrox
+Ford Prefect
+Arthur Dent
+Slartibartfast
